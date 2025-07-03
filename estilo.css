@@ -150,9 +150,11 @@ ul {
 }
 
 .tabla-heridas table {
-  width: 100%;
+  width: 1000px;
+  max-width: none;
+  min-width: 700px;
   border-collapse: collapse;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .tabla-heridas th,
